@@ -124,10 +124,7 @@ const Header = ({
           ))}
         </ul>
         <div className="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
-          
-          <ThemeSwitcher className="mr-5" />
-
-          
+          {/* <ThemeSwitcher className="mr-5" /> */}
         </div>
       </nav>
     </header>
